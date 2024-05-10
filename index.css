@@ -101,9 +101,11 @@ h2 span {
   0%,
   100% {
     transform: translateY(-5px) scale(1);
+    transform: scale(1.2);
   }
   50% {
     transform: translateY(5px) scale(1.05);
+    transform: scale(1);
   }
   98% {
     transform: translateY(-5px) scale(1.1);
